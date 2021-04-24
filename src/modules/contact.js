@@ -32,11 +32,11 @@ function loadContact() {
   setBtnActive('contact');
 
   const phoneSection = createSection('Phones', [
-    '$ Oz92-12j-2jda1',
-    '# Oz92-34d-80c13'
+    '$ 1234-567-8910',
+    '# 9876-543-2100'
   ]);
 
-  const addressSection = createSection('address', ['unknown regions']);
+  const addressSection = createSection('address', ['Human society']);
 
   content.appendChild(phoneSection);
   content.appendChild(addressSection);
