@@ -9,9 +9,9 @@ Restaurant page built  using webpack.
 - JavaScript
 - Webpack
 
-## Getting Started
+## Authors
 
-To get a local copy up and running follow these simple example steps.
+Feel free to reach out. We are always happy to connect :slightly_smiling_face:
 
 👤 **Mohammed Naqhid**
 
