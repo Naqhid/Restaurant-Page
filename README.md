@@ -9,6 +9,10 @@ Restaurant page built  using webpack.
 - JavaScript
 - Webpack
 
+## Live Demo
+
+<a href= "https://compassionate-wilson-0f3841.netlify.app/" target="_blank">Live version</a>
+
 ## Authors
 
 Feel free to reach out. We are always happy to connect :slightly_smiling_face:
