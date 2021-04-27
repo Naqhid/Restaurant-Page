@@ -43,3 +43,11 @@ Feel free to reach out. We are always happy to connect :slightly_smiling_face:
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+Design idea by [Elisabeth Molkova](https://www.behance.net/gallery/95591065/Web-design)
+
+- <a href="https://www.w3schools.com/" target="_blank">w3schools.com</a> 
+- <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>
+- <a href="https://www.stackoverflow.com/" target="_blank">Stackoverflow</a>
