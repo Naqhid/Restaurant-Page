@@ -13,6 +13,22 @@ Restaurant page built  using webpack.
 
 <a href= "https://compassionate-wilson-0f3841.netlify.app/" target="_blank">Live version</a>
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Setup
+
+```
+npm install
+```
+
+### Usage
+
+```
+npm start
+```
+
 ## Authors
 
 Feel free to reach out. We are always happy to connect :slightly_smiling_face:
