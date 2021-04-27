@@ -44,7 +44,7 @@ function createFooter(id, text) {
 function loadPage() {
   const content = document.getElementById('content');
   // header
-  const header = createHeader('header', 'Star Food');
+  const header = createHeader('header', 'Biryani Shop');
   content.appendChild(header);
   // nav
   const nav = createNav('nav');
